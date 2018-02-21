@@ -12,3 +12,5 @@ exec $SHELL -l //シェルの再起動
 create-react-app my-app //my-appの作成
 ```
 
++ index.js index.cssを追加
+
